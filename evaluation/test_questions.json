@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "question": "How can I update an existing timecard?",
+    "expected_answer": "Select Last Timecard and click Apply. The previous timecard details will populate. Modify the details as required, click Save, and then Continue."
+  },
+  {
+    "id": 2,
+    "question": "How many normal working hours can an employee enter in a timecard?",
+    "expected_answer": "For India Geo associates, normal hours should not exceed 9 hours. For other associates, normal hours should not exceed 8 hours. Additional hours should be entered separately under Additional Hours."
+  },
+  {
+    "id": 3,
+    "question": "What are the eligibility conditions for attendance regularisation?",
+    "expected_answer": "Biometric attendance must be less than 9 hours, minimum biometric attendance must be greater than 7 hours, and regularisation must be performed within 15 days."
+  },
+  {
+    "id": 4,
+    "question": "How can an employee apply for attendance regularisation?",
+    "expected_answer": "Log in through BCT One Login, open Oracle EBS, select Regularization Responsibility and Attendance Details, choose the start date, end date and Regularization transaction type, click Show Attendance, select Approval Request, enter the reason and Submit for Approval."
+  },
+  {
+    "id": 5,
+    "question": "Who is eligible for the five-day work week policy?",
+    "expected_answer": "G5 and above associates across all functions, and all enabler or support function associates across all grades, including contractors."
+  },
+  {
+    "id": 6,
+    "question": "When did the five-day work week policy become effective?",
+    "expected_answer": "The five-day work week policy became effective on 15 July 2026."
+  },
+  {
+    "id": 7,
+    "question": "What happens if an employee does not regularise attendance or apply for leave?",
+    "expected_answer": "Days that have not been regularised or do not have applied leave will be treated as Loss of Pay (LOP), resulting in salary deductions."
+  },
+  {
+    "id": 8,
+    "question": "How can an employee submit a claim through Oracle EBS?",
+    "expected_answer": "Log in through BCT One Login, open Oracle EBS, select BCT Employee Claim Search, click Create, select the claim type, click Add New Row, enter the required claim details, save and review the confirmation dialogue."
+  },
+  {
+    "id": 9,
+    "question": "What should an employee do if the required task is unavailable in the timecard dropdown?",
+    "expected_answer": "The employee should contact the RMG team to request inclusion of the required task."
+  },
+  {
+    "id": 10,
+    "question": "What is the maternity leave policy in the company?",
+    "expected_answer": "Maternity leave policy information is not available in the supplied HR documents. The employee should contact HR or BU HR for accurate information."
+  }
+]

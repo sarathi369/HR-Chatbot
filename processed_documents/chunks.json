@@ -1,0 +1,87 @@
+[
+    {
+        "chunk_id": "Claims User Manual.docx_0",
+        "source": "Claims User Manual.docx",
+        "content": "DO.070 Claim Application –\nUser Manual\nContents \nA. Preface:\nThis manual serves as a comprehensive guide to assist the Associates in the respective claim process, it outlines the necessary sequential steps to be completed and the due Approval flow, unto claim settlement. B. Pre-requisites for initiating a Claim:\n. Ensure you are eligible as per the policy to avail any specific type of claim, for more details on eligibility please review the claim policy/contact BU HR for any clarifications. Necessary claim details are in place including proof to be attached/uploaded with the claim. Project related claims have to be claimed only against a project, ensure you are mapped/allocated to that project. C. Process Workflow:\nD. Sequence of steps and actions for Claim Creation:\nNavigation:\nLogin into BCT one login portal and choose oracle EBS."
+    },
+    {
+        "chunk_id": "Claims User Manual.docx_1",
+        "source": "Claims User Manual.docx",
+        "content": "Once successfully logged-in, In the Navigation Pane select, BCT employee claim search \nClaim Reimbursement Dashboard:\nBy default, this UI will list out the claim(s) applied by the associate so far. To create new claims, ‘Select’ create button; which will redirect to claim creation dashboard. Entering a Claim:\nAfter selecting ‘Create’ button, the default details of the Employee, Entity, currency gets populated with the claim date. Then select the ‘claim type’ which will default the claim number as well, to enter claim details, select ‘Add New Row’ button\nThe default details for respective claims will be displayed, for few types of claims like certifications, local conveyance, project expenses/get-together additional details as applicable to be update by the Associate. Once details are updated, select ‘Save’, button which will prompt a dialogue box with claim details. Review the correctness of claim details, click on ‘Ok’ or ‘Cancel’ button as applicable."
+    },
+    {
+        "chunk_id": "Claims User Manual.docx_2",
+        "source": "Claims User Manual.docx",
+        "content": "On claim submission using the dialogue box, the page redirects to the Dashboard, with the claim status and Approval info. Document Name | Claims User Manual\nVersion Number | V1.0\nRelease Date | \nAuthor | Bhargav Shankar"
+    },
+    {
+        "chunk_id": "Regularisiation User Manual.docx_0",
+        "source": "Regularisiation User Manual.docx",
+        "content": "DO.070 Regularization -\nUser Manual\nTable of Contents\nA. Preface:\nAttendance regularization is process performed by Associates to correct /justify their attendance shortfall when compared to the expected work hours. ATTENDANCE REGULARIZATION OPTIONS:\nRegularization\nWork From Home\nOn-site\nComp-off\nForgot ID Card\nMissed to Swipe\nRegularization:\nRegularization Request should be performed by associates with due justification, for shortfall in Bio-metric hours / attendance hours recorded is less than ‘9’. Work from home:\nWork from home is to be Applied by associates as a request to perform their official duties remotely/ from their home. On-site:\nOn site to be applied if the Associate is working from client location, which is different from their base office. Bio-metric attendance is not applicable when the Associate is on an approved-on site assignment."
+    },
+    {
+        "chunk_id": "Regularisiation User Manual.docx_1",
+        "source": "Regularisiation User Manual.docx",
+        "content": "Forgot-id card:\nWhen Associates forgets to bring the Access Card/ID Card when reporting to office for a specific date, then Forgot id card to be used to Regularize Bio-metric details. Missed to Swipe:\nMissed to swipe is to be applied by Associate, when either ‘In-time’ or ‘Out-time’ swipe was missed by the Associates., but not both. B. Pre-requisites:\nRegularization:\nBiometric attendance duration should be less than 9 hours. Minimum Biometric attendance should be greater than 7 hours to apply regularization. Regularization should be performed within 15 days. Work from home, Forgot id card and On-site:\nFor work from home, forgot id card and On-site bio metric attendance will not be available. If available, then the associate will not be eligible for these three types of requests. Missed to swipe:\nMissed to swipe can be applied, only if the associate has either a bio-metric in or Bio-metric out time. C. Workflow:\nD."
+    },
+    {
+        "chunk_id": "Regularisiation User Manual.docx_2",
+        "source": "Regularisiation User Manual.docx",
+        "content": "Sequence of steps and actions:\nLogin into BCT one login portal and choose oracle EBS. Once successfully logged-in, In the Navigation Pane select, “Regularization” Responsibility. Choose regularization and then click attendance details. You will be redirected to regularization screen accordingly. Select applicable Start Date, End Date and Transaction Type as required. On selecting ‘Show Attendance’, the user will be able to see their bio metric details in this page. To Apply \nRegularization:\nChoose the start date and end date and select transaction type as “Regularization”, then click ‘Show Attendance’, button; \nAgainst respective rows select ‘Approval Request’, update ’Reason’ as applicable. and then select ’Submit for Approval’. 2. Work from home:\nChoose the start date and end date and select transaction as “Work from home\", then click show attendance. Enter the reason. Select the applicable ‘Shift’ (which is mandatory) then click submit for approvals. 3."
+    },
+    {
+        "chunk_id": "Regularisiation User Manual.docx_3",
+        "source": "Regularisiation User Manual.docx",
+        "content": "On-Site:\nChoose the start date and end date, select transaction as “On-site”, then click show attendance. Enter the reason. Choose Applicable shift (Which is mandatory) then click ‘Submit for Approvals’ button. 4. Forgot id card:\nChoose the start date and end date and select transaction as “Forgot ID card”, then click ‘Show Attendance’ button. Enter the reason. Choose the shift (shift is mandatory) then click ‘Submit for Approvals’ button. 5. Missed to swipe:\nChoose the start date and end date and select Transaction Type as “Missed to swipe\", then click ‘Show Attendance’ button. Edit the ‘Sign in’ in or ‘Sign out’ time as applicable when the ‘swipe was missed’, \nSelect the approval request checkbox. Enter ‘Reason’ and click ‘Submit for Approvals’ button. Document Name | Regularization\nVersion Number | V1.0\nRelease Date | 25-09-2025\nAuthor | Madesh S"
+    },
+    {
+        "chunk_id": "Timecard User Manual.docx_0",
+        "source": "Timecard User Manual.docx",
+        "content": "DO.070 Timecard -\nUser Manual\nContents \nPreface:\nA timecard is the process of recording and tracking the number of hours an employee has contributed to a specific project or set of tasks. Pre-requisites for initiating a Timecard Submission :\n. The employee must have the timecard access on their menu to apply for the time sheet if the employee does not have the timecard, then they must reach out to the IA team to enable the flag for the timecard. Ensure there is Bio or regularization details are available prior to applying time entry. Bio entries are available when swiping in and out in a day and regularization are applied if worked remotely\nSequence of steps and actions:\nTimecard Policy Definition:\nNavigation:\nUse your One-login and log on to Oracle EBS application. In the Home Page, select Employee timecard entry and click on create timecard \nThis will redirect you to the user timecard entry page."
+    },
+    {
+        "chunk_id": "Timecard User Manual.docx_1",
+        "source": "Timecard User Manual.docx",
+        "content": "Daily Timecard UI:\nThe UI, will be displayed as above for a day/date\nWeekly Timecard UI\nThe UI will be displayed as above for a Week. Timecard Submission:\nSelect the date for which the timecard is being applied. After selecting Time Sheet date, the number of hours will be displayed in the bottom of the screen where the attendance type will contain the detail such as bio-metric if any kind of regularization applied will be displayed for India Geo Associates. For others the biometric details will not be available. Select the project against which you shall submit the timecard. Pic1: Daily timecard entry page\nPic2: Weekly Timecard entry page\nThen mention/select the ‘Task’ from the List of Values as performed for the project, if the associate had worked on a holiday, then select either ‘holiday billable’ or ‘non-billable’."
+    },
+    {
+        "chunk_id": "Timecard User Manual.docx_2",
+        "source": "Timecard User Manual.docx",
+        "content": "Pic1: Daily Timecard entry page – Selecting Task\nPic2: Weekly Timecard entry page \nNote: \nIf the desired/applicable task is not available in the dropdown, please reach out to RMG team for inclusion. Then select type either ‘On-site’ or ‘offshore’ and there are two options will be available\nPic1: Daily timecard entry page\nPic2: Weekly Timecard entry page \nNormal Hours: if the associate selected normal hours onsite or offshore, the total hours clocked for all projects together should not exceed 9 hours for India Geo based Associates. For others the number of hours should not exceed 8 Hours. Additional Hours: if the associate has worked extra hours in addition to the Normal hours mentioned above then the Associate will mention the same under ‘Additional Hours’. Note: To default the timecard details as entered earlier if any, Associate can select the ‘Last Timecard’ and click ‘Apply’ template the details of the previous timecard will be populated, Associate can modify as required."
+    },
+    {
+        "chunk_id": "Timecard User Manual.docx_3",
+        "source": "Timecard User Manual.docx",
+        "content": "Note: Number of hours entered should sync with the biometric hours it should not be greater than the number of hours mentioned in the bottom of the UI. Then click on Save once the timecard has been saved click on continue. For Non-India users the associate has to enter the maximum number of hours they can submit in the normal hours for a week and click on continue \nTimecard Submission page:\nThis page contains the details of timecard saved, pending submission. To ‘Submit’ click ‘Submit’ button for initiating the Approval process."
+    },
+    {
+        "chunk_id": "Timecard User Manual.docx_4",
+        "source": "Timecard User Manual.docx",
+        "content": "Timecard Approvals:\nTimecard approval from the Worklist \nGo to Oracle EBS page on the worklist you will find the list associates whose timecard approvals are required \nClick on OTL workflows for employees \nClick on the above buttons on the page to perform the actions \nMass Timecard Approval:\nGo to Mass Timecard approval Responsibility on the oracle EBS page \nClick on Mass approval –Timecard to view and approve the timecards\nThe Timecards approval Requests can be filtered using the Parameters; From Date, To date and person-wise(Associate) also so that specific request(s) can be approved. There are two modes one is ‘history’ and ‘Pending for Approval’ \nThe history mode lists the timecards requests which were ‘Approved’ or ‘Rejected’ by the OTL approver already. The ‘Pending for Approval’ lists the request which are yet to be approved. The action section lists the Approval status to be performed viz. ‘Approved’ ,’Rejected’ or ‘Skipped’."
+    },
+    {
+        "chunk_id": "Timecard User Manual.docx_5",
+        "source": "Timecard User Manual.docx",
+        "content": "The details section on the page will provide the summary of the timecard which is being submitted by the user \nAfter selecting the Action viz. Approve, Reject, or Skip—click Continue to proceed with mass approval or rejection based on the selected action. This page displays the details of timecards reject, approved and skipped. After reviewing click on ‘submit’ to mass approve the timecards. Document Name | Timecard –User Manual\nVersion Number | V1.0\nRelease Date | \nAuthor | Bhargav Shankar"
+    },
+    {
+        "chunk_id": "Update_ 5 Day Work Week - Effective 15 July 2026.eml_0",
+        "source": "Update_ 5 Day Work Week - Effective 15 July 2026.eml",
+        "content": "Subject: Update: 5 Day Work Week - Effective 15 July 2026\n\nFrom: BCT-HR4u <BCT-HR4u@bahwancybertek.com>\n\nDate: Wed, 24 Jun 2026 04:54:13 +0000\n\nDear BCTians,\n\nOver the past few years, we have demonstrated remarkable resilience and adaptability in the way we work. As we continue to evolve as an organization, it is equally important that we strengthen how we collaborate, connect, and build our shared culture, while also driving greater consistency and productivity across our teams.\n\nWith this in mind, we will be transitioning to a five-day work week effective 15 July 2026, as part of our return-to-office framework. This step reflects our commitment to fostering stronger teamwork, enabling faster decision-making, and supporting a more productive and engaging workplace for all.\n\nTo support this transition, below are a quick set of guidelines to ensure consistency, fairness, and operational effectiveness across the organization:\n\n1. Eligibility"
+    },
+    {
+        "chunk_id": "Update_ 5 Day Work Week - Effective 15 July 2026.eml_1",
+        "source": "Update_ 5 Day Work Week - Effective 15 July 2026.eml",
+        "content": "1. Eligibility\n\n* G5 and above across all functions\n* All enabler/support function associates across all grades (including contractors)\n\n2. Mandate Attendance Regularization\n\nAttendance application is mandatory for all working days. Only past and current dates may be regularized. Future dates are not permitted in the tool.\n\n3. Less than 9 Hours Clock-in\n\nAssociates must regularize any shortage in completing 9 hours of office clock-in - This is applicable only for less than 2 hours of regularization per day.\n\n4. Client Site Guidelines\n\nAssociates working from or visiting client site must mark attendance as ON-SITE while updating their records in EBS\n\n5. Salary Impact\n\nAny days that have not been regularized, or without applied leave will be treated as LOP, and deductions would be made accordingly.\n\n6. Exceptions"
+    },
+    {
+        "chunk_id": "Update_ 5 Day Work Week - Effective 15 July 2026.eml_2",
+        "source": "Update_ 5 Day Work Week - Effective 15 July 2026.eml",
+        "content": "Any days that have not been regularized, or without applied leave will be treated as LOP, and deductions would be made accordingly.\n\n6. Exceptions\n\nExceptions due to personal, medical, or emergency situations must be proactively communicated and approved by the Reporting Manager, Business Head, and HRBP. Exceptions will only be considered with explicit business and HRBP approval.\n\nPlease note that the payroll cut-off date would be 21st of every month and therefore we request you to regularize your attendance on or before 21st of every month.\n\nThis transition reinforces consistency, accountability, and how we show up for one another to deliver our best work every day. Your partnership in making this successful is essential.\n\nPlease reach out to your Reporting Manager or HRBP team, in case of any questions or support required!\n\nThank you for your continued commitment and contribution.\n\nWarm Regards,\n\nTeam HR\n\nFollow us on social media!"
+    },
+    {
+        "chunk_id": "Update_ 5 Day Work Week - Effective 15 July 2026.eml_3",
+        "source": "Update_ 5 Day Work Week - Effective 15 July 2026.eml",
+        "content": "Thank you for your continued commitment and contribution.\n\nWarm Regards,\n\nTeam HR\n\nFollow us on social media!\n\n<https://www.facebook.com/BCTGlobal/><https://twitter.com/BCTglobal><https://www.linkedin.com/company/206605?trk=tyah><https://www.instagram.com/bctglobal>\n\nwww.bahwancybertek.com<http://www.bahwancybertek.com> | 2026 Bahwan CyberTek"
+    }
+]

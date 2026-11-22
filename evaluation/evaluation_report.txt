@@ -1,0 +1,218 @@
+HR CHATBOT - EVALUATION REPORT
+============================================================
+
+Question 1: How can I update an existing timecard?
+
+Expected Answer:
+Select Last Timecard and click Apply. The previous timecard details will populate. Modify the details as required, click Save, and then Continue.
+
+Generated Answer:
+Based on the provided HR documents, if you want to update an existing timecard, you can use the template feature to populate and modify previous details. 
+
+Here are the steps and conditions for updating your timecard:
+
+1. Go to the timecard entry page following the standard navigation.
+2. Select the **'Last Timecard'** option.
+3. Click **'Apply'** template, which will populate the details of your previous timecard.
+4. Modify the details as required.
+5. Ensure the number of hours entered syncs with your biometric hours and does not exceed the allowed maximums (9 hours for India Geo based associates; 8 hours for others).
+6. Click **Save**, and then click **Continue**.
+7. Click the **'Submit'** button to initiate the approval process.
+
+*Note:* If the desired or applicable task is not available in the dropdown menu while updating or entering your timecard, please reach out to the RMG team for inclusion.
+
+Source: Timecard User Manual.docx
+
+Result: CORRECT
+------------------------------------------------------------
+
+Question 2: How many normal working hours can an employee enter in a timecard?
+
+Expected Answer:
+For India Geo associates, normal hours should not exceed 9 hours. For other associates, normal hours should not exceed 8 hours. Additional hours should be entered separately under Additional Hours.
+
+Generated Answer:
+The number of normal working hours an employee can enter in a timecard depends on their geographic location:
+
+* **India Geo-based Associates:** The total normal hours clocked for all projects together should not exceed **9 hours**.
+* **Other Associates:** The total normal hours should not exceed **8 hours** (and non-India users must enter the maximum number of hours they can submit in the normal hours for a week).
+
+**Source:** Timecard User Manual.docx
+
+Result: CORRECT
+------------------------------------------------------------
+
+Question 3: What are the eligibility conditions for attendance regularisation?
+
+Expected Answer:
+Biometric attendance must be less than 9 hours, minimum biometric attendance must be greater than 7 hours, and regularisation must be performed within 15 days.
+
+Generated Answer:
+Based on the provided HR documents, here are the eligibility conditions and prerequisites for attendance regularization:
+
+### **Eligibility Conditions & Prerequisites**
+* **For standard Regularization:**
+  * Your biometric attendance duration must be **less than 9 hours**.
+  * Your minimum biometric attendance must be **greater than 7 hours** to apply for regularization (applicable only for shortfalls of less than 2 hours per day).
+  * The request must be performed **within 15 days**.
+  * Attendance application is mandatory for all working days, and only past and current dates may be regularized (future dates are not permitted).
+
+* **For other attendance correction types:**
+  * **Work From Home (WFH), Forgot ID Card, and On-Site:** Biometric attendance should *not* be available for that date. If biometric attendance is available, you are not eligible for these three types of requests.
+  * **Missed to Swipe:** Can only be applied if you have either a biometric "in" time or a biometric "out" time, but not both.
+
+***
+
+**Source Documents:** 
+* *Update_ 5 Day Work Week - Effective 15 July 2026.eml*
+* *Regularisiation User Manual.docx*
+
+Result: CORRECT
+------------------------------------------------------------
+
+Question 4: How can an employee apply for attendance regularisation?
+
+Expected Answer:
+Log in through BCT One Login, open Oracle EBS, select Regularization Responsibility and Attendance Details, choose the start date, end date and Regularization transaction type, click Show Attendance, select Approval Request, enter the reason and Submit for Approval.
+
+Generated Answer:
+To apply for attendance regularization or other attendance options, please follow the steps outlined below. 
+
+### Prerequisites and Conditions
+Before applying, please ensure you meet the specific conditions for the type of request you are submitting:
+* **General Attendance Regularization:** Your biometric attendance duration must be less than 9 hours, but it must be greater than 7 hours to apply. This must be performed within **15 days**.
+* **Work From Home, Forgot ID Card, and On-Site:** Biometric attendance should *not* be available. If biometric attendance is available, you are not eligible for these three request types. 
+* **Missed to Swipe:** Can only be applied if you have either a biometric *in* time or a biometric *out* time (but not both).
+
+---
+
+### Step-by-Step Procedure
+
+1. **Log in to the Portal:** 
+   Log in to the BCT one login portal and choose Oracle EBS.
+2. **Navigate to Regularization:** 
+   In the Navigation Pane, select the **“Regularization”** responsibility, choose regularization, and then click **Attendance Details** to be redirected to the regularization screen.
+3. **Select Details:** 
+   Select the applicable **Start Date**, **End Date**, and the appropriate **Transaction Type** (such as *Regularization*, *Work from home*, *On-site*, *Forgot ID card*, or *Missed to swipe*).
+4. **View Attendance:** 
+   Click the **‘Show Attendance’** button to view your biometric details for the selected period.
+5. **Complete Details Based on Your Transaction Type:**
+   * **For Regularization:** Against the respective rows, select the **‘Approval Request’** checkbox, update the **‘Reason’** as applicable, and select **‘Submit for Approval’**.
+   * **For Work From Home / On-Site / Forgot ID Card:** Enter the reason, choose the applicable **‘Shift’** (which is mandatory), and then click **‘Submit for Approvals’**.
+   * **For Missed to Swipe:** Edit the **‘Sign in’** or **‘Sign out’** time as applicable where the swipe was missed, select the approval request checkbox, enter your **‘Reason’**, and click **‘Submit for Approvals’**.
+
+*(Note: Attendance applications are mandatory for all working days. Only past and current dates may be regularized; future dates are not permitted.)*
+
+**Source Document:** Regularisiation User Manual.docx
+
+Result: CORRECT
+------------------------------------------------------------
+
+Question 5: Who is eligible for the five-day work week policy?
+
+Expected Answer:
+G5 and above associates across all functions, and all enabler or support function associates across all grades, including contractors.
+
+Generated Answer:
+Based on the HR documents provided, the eligibility for the five-day work week policy includes:
+
+* **G5 and above** across all functions.
+* **All enabler/support function associates** across all grades (including contractors).
+
+**Source:** Update_ 5 Day Work Week - Effective 15 July 2026.eml
+
+Result: CORRECT
+------------------------------------------------------------
+
+Question 6: When did the five-day work week policy become effective?
+
+Expected Answer:
+The five-day work week policy became effective on 15 July 2026.
+
+Generated Answer:
+The five-day work week policy became effective on **15 July 2026**.
+
+**Source Document:** Update_ 5 Day Work Week - Effective 15 July 2026.eml
+
+Result: CORRECT
+------------------------------------------------------------
+
+Question 7: What happens if an employee does not regularise attendance or apply for leave?
+
+Expected Answer:
+Days that have not been regularised or do not have applied leave will be treated as Loss of Pay (LOP), resulting in salary deductions.
+
+Generated Answer:
+Based on the provided HR documents, if an employee has days that have not been regularized or do not have an applied leave, those days will be treated as Loss of Pay (LOP), and salary deductions will be made accordingly. 
+
+Additionally, please note that the payroll cut-off date is the 21st of every month, so you must regularize your attendance on or before the 21st of every month.
+
+**Source Document:** Update_ 5 Day Work Week - Effective 15 July 2026.eml
+
+Result: CORRECT
+------------------------------------------------------------
+
+Question 8: How can an employee submit a claim through Oracle EBS?
+
+Expected Answer:
+Log in through BCT One Login, open Oracle EBS, select BCT Employee Claim Search, click Create, select the claim type, click Add New Row, enter the required claim details, save and review the confirmation dialogue.
+
+Generated Answer:
+To submit a claim through Oracle EBS, please follow these sequential steps:
+
+**Pre-requisites:**
+* Ensure you are eligible as per the policy for the specific type of claim you wish to avail. (For more details on eligibility, review the claim policy or contact BU HR).
+* Have all necessary claim details ready, including proofs to be attached or uploaded.
+* For project-related claims, ensure you are mapped or allocated to that project, as these must be claimed only against a project.
+
+**Sequence of Steps for Claim Creation:**
+1. Log in to the BCT one login portal and choose Oracle EBS.
+2. In the Navigation Pane, select **BCT employee claim search** to open the Claim Reimbursement Dashboard.
+3. On the dashboard, select the **Create** button to be redirected to the claim creation dashboard (default employee, entity, and currency details will be populated along with the claim date).
+4. Select the **Claim Type**, which will also default the claim number.
+5. Select the **Add New Row** button to enter your claim details. 
+6. Update any additional details as applicable (required for certain claim types such as certifications, local conveyance, and project expenses/get-togethers).
+7. Once the details are updated, select the **Save** button, which will prompt a dialogue box with your claim details.
+8. Review the correctness of the claim details in the dialogue box and click **Ok**. 
+9. After submission via the dialogue box, the page will redirect to the Dashboard, where you can view your claim status and approval information.
+
+Source: Claims User Manual.docx
+
+Result: CORRECT
+------------------------------------------------------------
+
+Question 9: What should an employee do if the required task is unavailable in the timecard dropdown?
+
+Expected Answer:
+The employee should contact the RMG team to request inclusion of the required task.
+
+Generated Answer:
+If the desired or applicable task is not available in the dropdown, the employee should reach out to the RMG team for inclusion.
+
+Source: Timecard User Manual.docx
+
+Result: CORRECT
+------------------------------------------------------------
+
+Question 10: What is the maternity leave policy in the company?
+
+Expected Answer:
+Maternity leave policy information is not available in the supplied HR documents. The employee should contact HR or BU HR for accurate information.
+
+Generated Answer:
+The information regarding the maternity leave policy is not covered in the available HR documents. 
+
+If you have any questions or require support regarding this matter, please reach out to your HR or BU HR team.
+
+Source: Update_ 5 Day Work Week - Effective 15 July 2026.eml, Regularisiation User Manual.docx, Claims User Manual.docx
+
+Result: NEEDS REVIEW
+------------------------------------------------------------
+
+FINAL EVALUATION SUMMARY
+============================================================
+Total Questions: 10
+Correct Answers: 9
+Incorrect / Needs Review: 1
+Accuracy: 90.00%
+============================================================
